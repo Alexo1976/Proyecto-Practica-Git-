@@ -1,7 +1,9 @@
 body {
     background-color:blueviolet;
     background-color:aquamarine;
+    background-color: cornflowerblue;
     font-weight:bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:dodgerblue;
     color:aqua;
 }

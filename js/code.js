@@ -1,5 +1,5 @@
     function saludo(){
 
 
-        alert("Prueba de aplicacion para el manejo adecuado de repostorios Git");
+        alert("Creacion de un segmento de pruebas para el manejo adecuado de repositorios");
     }
